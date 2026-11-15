@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --color-indigo-primary: #30356F;
+  --color-indigo-hover: #222650;
+  --color-indigo-deep: #171A35;
+  --color-vanilla-bg: #FBF5E6;
+  --color-porcelain-surface: #FFFCF4;
+  --color-sand-border: #E4DDC9;
+  --color-slate-muted: #5E5E70;
+  --color-amber-accent: #D9A441;
+  --color-crimson-alert: #B92343;
+  --color-forest-active: #245B45;
+}
+
+:root {
+  --bg-vanilla: #FBF5E6;
+  --surface-porcelain: #FFFCF4;
+  --ink-deep: #171A35;
+  --primary-indigo: #30356F;
+  --border-sand: #E4DDC9;
+  --muted-slate: #5E5E70;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #FBF5E6;
+  color: #171A35;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F3ECE0;
+}
+::-webkit-scrollbar-thumb {
+  background: #D4CBBA;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #30356F;
+}
+
+canvas {
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
