@@ -124,7 +124,8 @@ export const TopNavigationBar: React.FC<TopNavigationBarProps> = ({
         </button>
 
         <div className="flex items-center bg-[#F3ECE0] p-1 rounded-xl border border-[#E4DDC9]">
-          {[0.5, 1.0, 2.0, 5.0].map((s) => (\n            <button
+          {[0.5, 1.0, 2.0, 5.0].map((s) => (
+            <button
               key={s}
               onClick={() => onSpeedChange(s)}
               className={`px-2 py-1 rounded-md text-[11px] font-mono font-semibold transition-all ${
