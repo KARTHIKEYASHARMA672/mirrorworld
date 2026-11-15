@@ -1,6 +1,17 @@
 # 🌐 MIRRORWORLD — Virtual Reality of Your Business
 ## Industrial Digital Twin, Discrete-Event Simulation & Operational Bottleneck Optimization Engine
 
+<!-- linkedin-automation: {
+  "status": "approved",
+  "project": "MirrorWorld",
+  "order": 14,
+  "title": "MIRRORWORLD — Virtual Reality of Your Business",
+  "live_url": "https://mirrorworld-amber.vercel.app",
+  "github_repo": "https://github.com/KARTHIKEYASHARMA672/mirrorworld",
+  "screenshot_dir": "L:\\pr 15(esp)\\sendiing files\\screenshots\\14_MirrorWorld",
+  "scheduled_after": "13_Nexus_Factory"
+} -->
+
 > 🏭 **Executive Summary:** MIRRORWORLD is a high-fidelity 3D Virtual Reality & Digital Twin platform that replicates real-world business operations, factory floors, and warehouse fulfillment centers. Powered by a deterministic discrete-event simulation (DES) core and Goldratt's Theory of Constraints (TOC), MIRRORWORLD empowers operations leaders, plant managers, and industrial engineers to test production layout changes, evaluate capital investments, balance line takt time, eliminate bottlenecks, and simulate autonomous robotic and human workflows in real time.
 >
 > 🎨 **Aesthetic Direction:** Grounded Industrial Editorial & Tactical Minimalist. Palette: **Midnight Indigo & Vanilla** (`#30356F` / `#FBF5E6`) with warm amber (`#D9A441`) and alert crimson (`#B92343`) from the `colours for websites` design system. Strictly zero sci-fi neon or gimmick wireframes—pure tactile manufacturing realism.
@@ -46,6 +57,8 @@
 | :---: | :---: |
 | ![Thermal Energy Distribution](./screenshots/07_thermal_energy_distribution.png) | ![Entity Inspector Telemetry](./screenshots/08_entity_inspector_cnc_telemetry.png) |
 | *Real-time thermal load and power dissipation monitoring across active machinery* | *Live temperature, vibration, tool wear, cycle time slider, and operator reassignment dials* |
+
+---
 
 ---
 
